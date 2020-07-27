@@ -1,0 +1,3 @@
+#!/bin/bash
+
+while true; do curl wttr.in/~Berlin+Germany; sleep 60; done
